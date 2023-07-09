@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @layer utilities {
+    .bg-gradient-one {
+      background-image: linear-gradient(360deg, #E4F3FB 0.28%, #A8D9F7 94.72%);
+    }
+  } */
